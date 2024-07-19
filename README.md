@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek818&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek818" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek818" alt="abhishek818" /></a> </p>
+[![abhishek818's GitHub | Stats](https://stats.quira.sh/abhishek818/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=abhishek818)
 
 - 🔭 I’m currently working on [daytona](https://github.com/daytonaio/daytona)
 
