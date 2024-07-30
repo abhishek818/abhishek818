@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [daytona](https://github.com/daytonaio/daytona)
 
-- 🌱 I’m currently learning **Golang, C++, Rust**
+- 🌱 I have primarily worked on **Golang, C++, Python**
 
 - 🔭 I’m currently working on **open source projects**
 
